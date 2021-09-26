@@ -1,0 +1,44 @@
+body{
+    background-color: darkgray;
+}
+#title{
+    font-size: 5em;
+    padding: 0 30% 0 30%;
+    background-color: #525252;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, 
+                rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    font-family: 'Playfair Display', serif;
+    width: max-content;
+}
+img{
+    width: 100%;
+    height: auto;
+    float: inline-start;
+    display:flex;
+}
+#image-caption{
+    font-family: 'Playfair Display', serif;
+}
+
+
+#tribute-info{
+    font-size: 1.5em;
+    margin:5% 5% 0 5%;
+    text-align:justify;
+    border-top: 5em;
+    font-family: 'Lato', sans-serif;
+    min-height: max-content;
+}
+.info{
+    width: auto;
+    background-color:white;
+    margin:0.1em 1em 1.5em 1em;
+    border-radius: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, 
+                rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    height: max-content;
+    display: flex;
+}
+#tribute-link{
+    font-family: 'Playfair Display', serif;
+}
